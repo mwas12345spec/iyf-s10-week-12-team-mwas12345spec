@@ -33,3 +33,39 @@
 - Created navigation menu
 - Set up React Router
 - Fixed accessibility issues
+
+### Team Member 4
+- Created navigation menu
+- Set up React Router
+- Fixed accessibility issues
+
+### Team Member 5
+- Created navigation menu
+- Set up React Router
+- Fixed accessibility issues
+
+### Team Member 6
+- Created navigation menu
+- Set up React Router
+- Fixed accessibility issues
+
+### Team Member 7
+- Created navigation menu
+- Set up React Router
+- Fixed accessibility issues
+
+### Team Member 8
+- Created navigation menu
+- Set up React Router
+- Fixed accessibility issues
+
+### Team Member 9
+- Created navigation menu
+- Set up React Router
+- Fixed accessibility issues
+
+### Team Member 10
+- Created navigation menu
+- Set up React Router
+- Fixed accessibility issuues
+- 
